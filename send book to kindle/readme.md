@@ -1,2 +1,2 @@
-##±¾³ÌĞò¿ÉÒÔÒ»¼ü°ïÄãÍÆËÍ±¾µØµÄµç×ÓÊéÍÆËÍµ½ÄãµÄkindleÉè±¸ÉÏ
-##the programme can help you send your book to your kindle handily and quickly
+## æœ¬ç¨‹åºå¯ä»¥ä¸€é”®å¸®ä½ æ¨é€æœ¬åœ°çš„ç”µå­ä¹¦æ¨é€åˆ°ä½ çš„kindleè®¾å¤‡ä¸Š
+## the programme can help you send your book to your kindle handily and quickly
